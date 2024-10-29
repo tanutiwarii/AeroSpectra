@@ -1,4 +1,4 @@
-**Objective**: Develop an AI/ML model using Python libraries to generate high-resolution air quality maps (NO2) from coarse satellite data, addressing cloud-induced data gaps and optimizing model accuracy.
+**Objective**:An AI/ML model using Python libraries to generate high-resolution air quality maps (NO2) from coarse satellite data, addressing cloud-induced data gaps and optimizing model accuracy.
 
 **Challenges**:
 1. Handling large satellite datasets with cloud coverage gaps.

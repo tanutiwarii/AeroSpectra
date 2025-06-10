@@ -1,3 +1,4 @@
+# AeroSpectra
 **Objective**:An AI/ML model using Python libraries to generate high-resolution air quality maps (NO2) from coarse satellite data, addressing cloud-induced data gaps and optimizing model accuracy.
 
 **Challenges**:
@@ -13,6 +14,7 @@
 
 **Desired Outcome**: High-resolution NO2 air quality map.
 
+<img width="829" alt="Screenshot 2025-06-11 at 12 15 00 AM" src="https://github.com/user-attachments/assets/1c815608-5bed-4719-a3a1-96bb63cc3ae4" />
 
 ![1725545122636](https://github.com/user-attachments/assets/23690ac0-05a8-4232-8493-5ef5bd31d1df)
 
